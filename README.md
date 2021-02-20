@@ -9,6 +9,8 @@ Go to https://gajananambekar.github.io/Banking_system/  to see this project.
 ![02](https://user-images.githubusercontent.com/68407684/108596070-ada67780-73a8-11eb-9af2-273af74f0aa1.JPG)
 ![01](https://user-images.githubusercontent.com/68407684/108596092-cdd63680-73a8-11eb-8a84-adc18011bab9.JPG)
 ![db1](https://user-images.githubusercontent.com/68407684/108596784-3de6bb80-73ad-11eb-9913-027b0fd6fae5.JPG)
+![db2](https://user-images.githubusercontent.com/68407684/108596804-55be3f80-73ad-11eb-88b1-ea6dcfd30b59.JPG)
+
 
 
 ## How to start:
