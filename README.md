@@ -7,6 +7,7 @@ If you're using a mobile, please come back later as I'm adding CSS queries soon!
 Go to https://gajananambekar.github.io/Banking_system/  to see this project.
 ![04](https://user-images.githubusercontent.com/68407684/108596043-759f3480-73a8-11eb-9918-fbd6a2bef918.JPG)
 ![02](https://user-images.githubusercontent.com/68407684/108596070-ada67780-73a8-11eb-9af2-273af74f0aa1.JPG)
+![01](https://user-images.githubusercontent.com/68407684/108596092-cdd63680-73a8-11eb-8a84-adc18011bab9.JPG)
 
 ## How to start:
 
